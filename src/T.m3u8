@@ -1,5 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Widevine Test Channel" group-title="DRM Test",Widevine Test
+
+#EXTINF:-1 tvg-name="Widevine Tears HD" group-title="DRM | Widevine",Widevine Tears HD
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://proxy.uat.widevine.com/proxy?provider=widevine_test
 https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears.mpd
+
+
+#EXTINF:-1 tvg-name="Widevine UHD" group-title="DRM | Widevine",Widevine UHD
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://proxy.uat.widevine.com/proxy?provider=widevine_test
+https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears_uhd.mpd
+
+
+#EXTINF:-1 tvg-name="ClearKey Test" group-title="DRM | ClearKey",ClearKey Test
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ae8ccd0e0c24a2c8df8c5c3c3b98a30:3d8eac8a1f1d3bdbbcf6d2cbbd7b7a19
+https://storage.googleapis.com/shaka-demo-assets/angel-one-clearkey/dash.mpd
