@@ -1,0 +1,32 @@
+#EXTINF: -1 tvg-id="SriLanka" tvg-chno="76" tvg-logo="https://i.ibb.co/wyZVVyN/1000155752-photoaidcom-cropped.png" group-title="Overseas", Rupavahini
+
+#EXTINF: -1 tvg-id="SriLanka" tvg-chno="76" tvg-logo="https://i.ibb.co/k3KjxTX/1000155760-photoaidcom-cropped.png" group-title="Overseas", Supreme TV
+
+#EXTINF: -1 tvg-id="SriLanka" tvg-chno="76" tvg-logo="https://i.ibb.co/3MZYrKB/1000155761-photoaidcom-cropped.png" group-title="Overseas", Nethra TV
+
+#EXTINF: -1 tvg-id="SriLanka" tvg-chno="76" tvg-logo="https://i.ibb.co/9Z2sTXy/1000155758-photoaidcom-cropped.png" group-title="Overseas", Sirasa TV
+                                                                                                #EXTINF:-1 tvg-id="SriLanka" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/ppkeyw.png" group-title="Overseas",Jaya TV
+                                                                                                #EXTINF:-1 tvg-id="SriLanka" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/twkwpt.png" group-title="Overseas",SLTMobitel Group Watch
+                                                                                                #EXTINF:-1 tvg-id="SriLanka" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/wiyovh.png" group-title="Overseas",Three Vision
+                                                                                                #EXTINF:-1 tvg-id="SriLanka" tvg-logo="https://yt3.googleusercontent.com/ZaG0AcUC38WcLMe1_qaWOKwYtMfDsunrwkOpbw2bDjxz6hr8QwxjB3Vv932q-5Ic-pCzqLPN=s900" group-title="Overseas",TV Derana        
+#EXTINF:-1 tvg-id="SriLanka" tvg-logo="https://yt3.googleusercontent.com/VYf3JNQqQGwKio4bqS7UsgA228wr5Q7UNU2fdgNE0N5KaTSUqju2roE67YL9hyYh0jub_LpO=s900" group-title="Overseas",Charana TV       
+#EXTINF:-1 tvg-logo="https://tnltv.lk/images/logos/logo/tnltv.png" group-title="Overseas",TNL TV
+                                                                                                #EXTINF:-1 tvg-id="78" tvg-chno="272" tvg-name="scifi-world" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/oxsgsi.png" group-title="YuppTV", Scifi World
+#KODIPROP:inputstream=inputstream.adaptive                                                      #KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1                 https://streams2.sofast.tv/ptnr-yupptv/title-SCIFI-WORLD-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8
+                                                                                                #EXTINF:-1 tvg-id="63" tvg-chno="274" tvg-name="encore" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/twazqd.png" group-title="YuppTV", Encore          #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1                 https://streams2.sofast.tv/ptnr-yupptv/title-ENCORE-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/390efe7e-4a1a-4f9f-8266-b4d90ab7121a/master.m3u8
+
+#EXTINF:-1 tvg-id="53" tvg-chno="276" tvg-name="danger-vision-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/iktjkc.png" group-title="YuppTV", Danger Vision TV                                                                                      #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1                 https://streams2.sofast.tv/ptnr-yupptv/title-DANGER-VISION-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/453971f3-855a-455e-9353-ebbb069583a4/master.m3u8                    
+#EXTINF:-1 tvg-id="95" tvg-chno="277" tvg-name="mercury" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wyuowl.png" group-title="YuppTV", Mercury        #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1                 https://streams2.sofast.tv/ptnr-yupptv/title-MERCURY-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b7f74048-fe90-4144-a876-7bfa27774154/master.m3u8
+                                                                                                #EXTINF:-1 tvg-id="60" tvg-chno="278" tvg-name="urban-action" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/urban-action.png" group-title="YuppTV", Urban Action
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls                                                #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1                 https://streams2.sofast.tv/ptnr-yupptv/title-URBAN-ACTION-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7ad8ce96-5a3f-413e-ae15-7c2cef7bc8f8/manifest.m3u8
+                                                                                                #EXTINF:-1 tvg-id="88" tvg-chno="280" tvg-name="the-explorers1" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ggdzvt.png" group-title="YuppTV", The Explorers                                                                                           #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls                                                #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://streams2.sofast.tv/ptnr-yupptv/title-THE-EXPLORERS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/manifest.m3u8
